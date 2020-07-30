@@ -34,7 +34,7 @@
     "estraverse": "~1.8.0",
     "exit": "~0.1.2",
     "glob": "~4.0.0",
-    "minimatch": "~1.0.0",
+    "minimatch": "~3.0.4",
     "strip-json-comments": "~1.0.1",
     "vow": "~0.4.3",
     "vow-fs": "~0.3.1",
